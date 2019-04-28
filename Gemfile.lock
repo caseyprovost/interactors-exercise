@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    interactor (3.1.1)
+    minitest (5.11.3)
+    spy (1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  interactor (~> 3.0)
+  minitest
+  spy
+
+BUNDLED WITH
+   1.16.0.pre.3
